@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">calculator_assessment</string>
+    <string name="firstnumber">Firstnumber</string>
+    <string name="secondnumber">Secondnumber</string>
+    <string name="add">Add</string>
+    <string name="subtract">Subtract</string>
+    <string name="multiply">Multiply</string>
+    <string name="modulus">Modulus</string>
+</resources>
